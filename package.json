@@ -1,0 +1,23 @@
+{
+  "name": "calc-jm-ci",
+  "version": "1.0.0",
+  "description": "An calculator example using Jasmine for tests and Travis-CI for continuous integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjuniorr/calc-jm-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjuniorr/calc-jm-ci/issues"
+  },
+  "homepage": "https://github.com/cjuniorr/calc-jm-ci#readme",
+  "devDependencies": {
+    "jasmine": "^3.2.0"
+  }
+}

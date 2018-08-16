@@ -1,4 +1,4 @@
-describe('Sub tests', () => {
+describe('Subtraction  tests', () => {
     let Calculadora = require('../../src/js/calculadora')
 
     it('Should return 5 for 2 and 3', () => {
